@@ -1,0 +1,7 @@
+cv-iot-class/venv/Lib/
+cv-iot-class/venv/Scripts/
+cv-iot-class/venv/Include/
+cv-iot-class/venv/share/
+cv-iot-class/venv/pyvenv.cfg
+__pycache__/
+*.pyc
