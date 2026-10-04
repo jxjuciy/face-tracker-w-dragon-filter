@@ -1,2 +1,6 @@
 opencv-python
 mediapipe
+moderngl
+trimesh
+Pillow
+scipy
